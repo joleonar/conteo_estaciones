@@ -1,0 +1,23 @@
+
+# =============================================================
+# Salidas y temporales de SEISAN
+# =============================================================
+select.out
+select.inp
+waveform_names.out
+index.out
+index.codaq
+
+# =============================================================
+# Carpetas de figuras generadas y respaldos antiguos
+# =============================================================
+select_viejos/
+
+
+# =============================================================
+# Entorno de Python y Jupyter Notebook
+# =============================================================
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
